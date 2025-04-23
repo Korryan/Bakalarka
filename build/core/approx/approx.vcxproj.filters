@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\approx\src\Akima.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\approx\src\avgexp\AvgElementaryFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\approx\src\avgexp\AvgExpApprox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\approx\src\avgexp\AvgExpInterpolation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\approx\src\descriptor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\approx\src\line.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\approx\src\win\dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\approx\src\Akima.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\approx\src\avgexp\AvgElementaryFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\approx\src\avgexp\AvgExpApprox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\approx\src\avgexp\AvgExpInterpolation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\approx\src\line.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\approx\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\approx\src\win\approx.def">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0C9DE735-E628-340A-AD34-6C0F3EE2948B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{33B8C4EA-8DE6-325E-BBA2-7E92E76D4D58}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

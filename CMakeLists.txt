@@ -1,13 +1,25 @@
-CMAKE_MINIMUM_REQUIRED(VERSION 3.10)
+cmake_minimum_required(VERSION 3.10)
 
-PROJECT("SmartCGMS")
+# Definice projektu s aktivovaným C++ a požadovaným standardem (C++20)
+project(SmartCGMS LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_CXX_EXTENSIONS OFF)
+include_directories(${CMAKE_SOURCE_DIR}/deps/Eigen3)
 
-ADD_SUBDIRECTORY("common")
-ADD_SUBDIRECTORY("core")
+# Pokud opravdu potřebujete Qt6, explicitně nalezneme potřebné komponenty.
+# V tomto případě hledáme moduly Core a Svg, aby se odstranily chyby při linkování.
+find_package(Qt6 COMPONENTS Core Svg REQUIRED)
 
-IF(NOT DEFINED BUILD_CORE_ONLY OR NOT BUILD_CORE_ONLY)
-ADD_SUBDIRECTORY("console")
-ADD_SUBDIRECTORY("desktop")
-ENDIF()
+# Přidáme podsložky projektu
+add_subdirectory(common)
+add_subdirectory(core)
+add_subdirectory(tester)
 
-ADD_SUBDIRECTORY("wrappers")
+
+#if(NOT DEFINED BUILD_CORE_ONLY OR NOT BUILD_CORE_ONLY)
+#    add_subdirectory(console)
+#    add_subdirectory(desktop)
+#endif()
+
+#add_subdirectory(wrappers)

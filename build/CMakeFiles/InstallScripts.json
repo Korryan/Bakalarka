@@ -1,0 +1,24 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Probook/Desktop/scgms/scgms-release/build/cmake_install.cmake",
+		"C:/Users/Probook/Desktop/scgms/scgms-release/build/common/cmake_install.cmake",
+		"C:/Users/Probook/Desktop/scgms/scgms-release/build/core/cmake_install.cmake",
+		"C:/Users/Probook/Desktop/scgms/scgms-release/build/core/scgms/cmake_install.cmake",
+		"C:/Users/Probook/Desktop/scgms/scgms-release/build/core/approx/cmake_install.cmake",
+		"C:/Users/Probook/Desktop/scgms/scgms-release/build/core/controllers/cmake_install.cmake",
+		"C:/Users/Probook/Desktop/scgms/scgms-release/build/core/data/cmake_install.cmake",
+		"C:/Users/Probook/Desktop/scgms/scgms-release/build/core/drawing/cmake_install.cmake",
+		"C:/Users/Probook/Desktop/scgms/scgms-release/build/core/drawing_v2/cmake_install.cmake",
+		"C:/Users/Probook/Desktop/scgms/scgms-release/build/core/icarus/cmake_install.cmake",
+		"C:/Users/Probook/Desktop/scgms/scgms-release/build/core/log/cmake_install.cmake",
+		"C:/Users/Probook/Desktop/scgms/scgms-release/build/core/matlab/cmake_install.cmake",
+		"C:/Users/Probook/Desktop/scgms/scgms-release/build/core/metric/cmake_install.cmake",
+		"C:/Users/Probook/Desktop/scgms/scgms-release/build/core/model/cmake_install.cmake",
+		"C:/Users/Probook/Desktop/scgms/scgms-release/build/core/native/cmake_install.cmake",
+		"C:/Users/Probook/Desktop/scgms/scgms-release/build/core/signal/cmake_install.cmake",
+		"C:/Users/Probook/Desktop/scgms/scgms-release/build/core/stochastic/cmake_install.cmake",
+		"C:/Users/Probook/Desktop/scgms/scgms-release/build/tester/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

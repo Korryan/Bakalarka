@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\descriptor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing_filter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\win\dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\CSVBuilder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Containers\Day.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Containers\Value.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Generators\AGPGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Generators\ClarkGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Generators\DayGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Generators\ECDFGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Generators\GraphGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Generators\Mobile_CarbsGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Generators\Mobile_Generator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Generators\Mobile_GlucoseGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Generators\Mobile_InsulinGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Generators\ParkesGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Misc\PlotBackgroundMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Misc\StringHelpers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Misc\Utility.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\SVGBuilder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing_filter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\CSVBuilder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Containers\Day.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Containers\Value.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Generators\AGPGenerator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Generators\ClarkGenerator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Generators\DayGenerator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Generators\ECDFGenerator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Generators\GraphGenerator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Generators\IGenerator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Generators\Mobile_CarbsGenerator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Generators\Mobile_Generator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Generators\Mobile_GlucoseGenerator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Generators\Mobile_InsulinGenerator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Generators\ParkesGenerator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Misc\PlotBackgroundMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Misc\StringHelpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\Misc\Utility.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\SVGBuilder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\drawing\general.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\drawing\src\win\drawing.def">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0C9DE735-E628-340A-AD34-6C0F3EE2948B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{33B8C4EA-8DE6-325E-BBA2-7E92E76D4D58}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

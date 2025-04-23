@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\build\desktop\scgms-desktop_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\filter_config_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\filters_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\helpers\FilterListItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\helpers\Model_Bounds_Panel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\helpers\Select_Subject_Panel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\helpers\Select_Time_Segment_Id_Panel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\helpers\Signal_Group_Widget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\helpers\Time_Segment_Group_Widget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\helpers\filter_config_widgets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\helpers\general_container_edit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\helpers\gui_subchain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\main_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\parameters_optimization_dialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\simulation\abstract_simulation_tab.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\simulation\drawing_tab_widget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\simulation\drawing_v2_tab_widget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\simulation\errors_tab_widget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\simulation\log_tab_widget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\simulation_window.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\resource\resource.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\build\desktop\scgms-desktop_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\build\desktop\scgms-desktop_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\build\desktop\scgms-desktop_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\filter_config_window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\filters_window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\helpers\FilterListItem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\helpers\Model_Bounds_Panel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\helpers\Select_Subject_Panel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\helpers\Select_Time_Segment_Id_Panel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\helpers\Signal_Group_Widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\helpers\Time_Segment_Group_Widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\helpers\filter_config_widgets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\helpers\general_container_edit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\helpers\gui_subchain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\main_window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\parameters_optimization_dialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\simulation\abstract_simulation_tab.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\simulation\drawing_tab_widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\simulation\drawing_v2_tab_widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\simulation\errors_tab_widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\simulation\log_tab_widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\ui\simulation_window.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\desktop\src\platform\win\version.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0C9DE735-E628-340A-AD34-6C0F3EE2948B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{33B8C4EA-8DE6-325E-BBA2-7E92E76D4D58}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

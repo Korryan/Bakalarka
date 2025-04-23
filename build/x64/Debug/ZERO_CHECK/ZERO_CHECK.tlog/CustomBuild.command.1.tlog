@@ -1,0 +1,10 @@
+^C:\USERS\PROBOOK\DESKTOP\SCGMS\SCGMS-RELEASE\BUILD\CMAKEFILES\AFCE6C2DCE55D5BAE4EAC5A01B130AC1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Probook/Desktop/scgms/scgms-release -BC:/Users/Probook/Desktop/scgms/scgms-release/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Probook/Desktop/scgms/scgms-release/build/SmartCGMS.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

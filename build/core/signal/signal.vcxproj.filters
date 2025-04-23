@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\Measured_Signal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\calculated_signal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\decoupling.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\descriptor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\expression\expression.tab.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\fitness.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\impulse_response_filter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\mapping.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\masking.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\median_response_filter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\noise_filter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\signal_feedback.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\signal_generator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\time_segment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\unmasking.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\win\dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\Measured_Signal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\calculated_signal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\decoupling.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\descriptor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\expression\expression.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\expression\expression.tab.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\fitness.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\impulse_response_filter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\mapping.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\masking.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\median_response_filter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\noise_filter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\signal_feedback.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\signal_generator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\time_segment.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\unmasking.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\signal\src\win\signal.def">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0C9DE735-E628-340A-AD34-6C0F3EE2948B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{33B8C4EA-8DE6-325E-BBA2-7E92E76D4D58}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

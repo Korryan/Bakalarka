@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\tester\test_runner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\tester\tests\test_descriptors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\tester\tests\test_create.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\tester\tests\test_descriptors_and_create.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\tester\tests\test_filter_parameter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\tester\tests\test_filter_configuration_executor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\tester\tests\test_configuration_link.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\tester\tests\test_persistent_chain_configuration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\tester\tests\test_composite_filter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\tester\tests\test_executor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\scgms\src\filter_parameter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\scgms\src\filter_configuration_executor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\scgms\src\composite_filter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\scgms\src\executor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\scgms\src\device_event.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\scgms\src\simple_bindings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\scgms\src\filters.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\scgms\src\configuration_link.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\scgms\src\persistent_chain_configuration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Probook\Desktop\scgms\scgms-release\tester\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{33B8C4EA-8DE6-325E-BBA2-7E92E76D4D58}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

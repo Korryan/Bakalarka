@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\db_reader.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\db_reader_legacy.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\db_writer.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\db_writer_legacy.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\descriptor.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\file_reader.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\sincos_generator.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\third party\iso8601.cpp">
+      <Filter>thirdparty</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\misc\formats\format_layout.ini.c">
+      <Filter>fileloader</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\misc\formats\format_series.ini.c">
+      <Filter>fileloader</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\CSVFormat.cpp">
+      <Filter>fileloader</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\Extractor.cpp">
+      <Filter>fileloader</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\FormatAdapter.cpp">
+      <Filter>fileloader</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\FormatImpl.cpp">
+      <Filter>fileloader</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\Misc.cpp">
+      <Filter>fileloader</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\Structures.cpp">
+      <Filter>fileloader</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\XMLFormat.cpp">
+      <Filter>fileloader</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\file_format_rules.cpp">
+      <Filter>fileloader</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\time_utils.cpp">
+      <Filter>fileloader</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\value_convertor.cpp">
+      <Filter>fileloader</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\win\dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\db_reader.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\db_reader_legacy.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\db_writer.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\db_writer_legacy.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\descriptor.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\file_reader.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\sincos_generator.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\third party\iso8601.h">
+      <Filter>thirdparty</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\CSVFormat.h">
+      <Filter>fileloader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\Extractor.h">
+      <Filter>fileloader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\FormatAdapter.h">
+      <Filter>fileloader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\FormatImpl.h">
+      <Filter>fileloader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\Misc.h">
+      <Filter>fileloader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\Structures.h">
+      <Filter>fileloader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\XMLFormat.h">
+      <Filter>fileloader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\file_format_rules.h">
+      <Filter>fileloader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\time_utils.h">
+      <Filter>fileloader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\value_convertor.h">
+      <Filter>fileloader</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\win\data.def">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{33B8C4EA-8DE6-325E-BBA2-7E92E76D4D58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="fileloader">
+      <UniqueIdentifier>{C8B1331E-EFC3-3D7E-A528-E37164E981CB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{012C464A-7E10-3225-B183-5101425CC7AA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="thirdparty">
+      <UniqueIdentifier>{35744626-6C9F-3A99-A352-50D2F63A1DF3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Probook\Desktop\scgms\scgms-release\build\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Probook\Desktop\scgms\scgms-release\build\compiled\Debug\filters\approx.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Probook\Desktop\scgms\scgms-release\build\compiled\Debug\filters\controllers.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Probook\Desktop\scgms\scgms-release\build\compiled\Debug\filters\data.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Probook\Desktop\scgms\scgms-release\build\compiled\Debug\filters\drawing.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Probook\Desktop\scgms\scgms-release\build\compiled\Debug\filters\drawing_v2.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Probook\Desktop\scgms\scgms-release\build\compiled\Debug\filters\icarus.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Probook\Desktop\scgms\scgms-release\build\compiled\Debug\filters\log.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Probook\Desktop\scgms\scgms-release\build\compiled\Debug\filters\metric.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Probook\Desktop\scgms\scgms-release\build\compiled\Debug\filters\model.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Probook\Desktop\scgms\scgms-release\build\compiled\Debug\filters\native.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Probook\Desktop\scgms\scgms-release\build\compiled\Debug\scgms.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Probook\Desktop\scgms\scgms-release\build\compiled\Debug\filters\signal.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Probook\Desktop\scgms\scgms-release\build\compiled\Debug\filters\stochastic.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Probook\Desktop\scgms\scgms-release\build\tester\Debug\test_runner.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Probook\Desktop\scgms\scgms-release\build\x64\Debug\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

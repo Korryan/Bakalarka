@@ -1,0 +1,21 @@
+C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\db_reader.cpp;C:\Users\Probook\Desktop\scgms\scgms-release\build\core\data\data.dir\Debug\db_reader.obj
+C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\db_reader_legacy.cpp;C:\Users\Probook\Desktop\scgms\scgms-release\build\core\data\data.dir\Debug\db_reader_legacy.obj
+C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\db_writer.cpp;C:\Users\Probook\Desktop\scgms\scgms-release\build\core\data\data.dir\Debug\db_writer.obj
+C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\db_writer_legacy.cpp;C:\Users\Probook\Desktop\scgms\scgms-release\build\core\data\data.dir\Debug\db_writer_legacy.obj
+C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\descriptor.cpp;C:\Users\Probook\Desktop\scgms\scgms-release\build\core\data\data.dir\Debug\descriptor.obj
+C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\file_reader.cpp;C:\Users\Probook\Desktop\scgms\scgms-release\build\core\data\data.dir\Debug\file_reader.obj
+C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\sincos_generator.cpp;C:\Users\Probook\Desktop\scgms\scgms-release\build\core\data\data.dir\Debug\sincos_generator.obj
+C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\third party\iso8601.cpp;C:\Users\Probook\Desktop\scgms\scgms-release\build\core\data\data.dir\Debug\iso8601.obj
+C:\Users\Probook\Desktop\scgms\scgms-release\core\data\misc\formats\format_layout.ini.c;C:\Users\Probook\Desktop\scgms\scgms-release\build\core\data\data.dir\Debug\format_layout.ini.obj
+C:\Users\Probook\Desktop\scgms\scgms-release\core\data\misc\formats\format_series.ini.c;C:\Users\Probook\Desktop\scgms\scgms-release\build\core\data\data.dir\Debug\format_series.ini.obj
+C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\CSVFormat.cpp;C:\Users\Probook\Desktop\scgms\scgms-release\build\core\data\data.dir\Debug\CSVFormat.obj
+C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\Extractor.cpp;C:\Users\Probook\Desktop\scgms\scgms-release\build\core\data\data.dir\Debug\Extractor.obj
+C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\FormatAdapter.cpp;C:\Users\Probook\Desktop\scgms\scgms-release\build\core\data\data.dir\Debug\FormatAdapter.obj
+C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\FormatImpl.cpp;C:\Users\Probook\Desktop\scgms\scgms-release\build\core\data\data.dir\Debug\FormatImpl.obj
+C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\Misc.cpp;C:\Users\Probook\Desktop\scgms\scgms-release\build\core\data\data.dir\Debug\Misc.obj
+C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\Structures.cpp;C:\Users\Probook\Desktop\scgms\scgms-release\build\core\data\data.dir\Debug\Structures.obj
+C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\XMLFormat.cpp;C:\Users\Probook\Desktop\scgms\scgms-release\build\core\data\data.dir\Debug\XMLFormat.obj
+C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\file_format_rules.cpp;C:\Users\Probook\Desktop\scgms\scgms-release\build\core\data\data.dir\Debug\file_format_rules.obj
+C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\time_utils.cpp;C:\Users\Probook\Desktop\scgms\scgms-release\build\core\data\data.dir\Debug\time_utils.obj
+C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\fileloader\value_convertor.cpp;C:\Users\Probook\Desktop\scgms\scgms-release\build\core\data\data.dir\Debug\value_convertor.obj
+C:\Users\Probook\Desktop\scgms\scgms-release\core\data\src\win\dllmain.cpp;C:\Users\Probook\Desktop\scgms\scgms-release\build\core\data\data.dir\Debug\dllmain.obj

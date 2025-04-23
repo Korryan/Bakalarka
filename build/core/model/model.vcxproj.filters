@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\bergman\bergman.cpp">
+      <Filter>model\bergman</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\bolus\insulin_bolus.cpp">
+      <Filter>model\bolus</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\common\uptake_accumulator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\constant\Constant_Model.cpp">
+      <Filter>model\constant</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\descriptor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\diffusion\Diffusion_Prediction.cpp">
+      <Filter>model\diffusion</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\diffusion\Diffusion_v2_blood.cpp">
+      <Filter>model\diffusion</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\diffusion\Diffusion_v2_ist.cpp">
+      <Filter>model\diffusion</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\factory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct\gct.cpp">
+      <Filter>model\gct</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct\gct_depot.cpp">
+      <Filter>model\gct</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct2\gct2.cpp">
+      <Filter>model\gct2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct2\gct2_depot.cpp">
+      <Filter>model\gct2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct2\samadi_gct2.cpp">
+      <Filter>model\gct2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct3\gct3.cpp">
+      <Filter>model\gct3</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct3\gct3_depot.cpp">
+      <Filter>model\gct3</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct3\gct3_integrators.cpp">
+      <Filter>model\gct3</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\pattern_prediction\pattern_descriptor_model_parameters.cpp">
+      <Filter>model\pattern_prediction</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\pattern_prediction\pattern_prediction.cpp">
+      <Filter>model\pattern_prediction</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\pattern_prediction\pattern_prediction_data.cpp">
+      <Filter>model\pattern_prediction</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\pattern_prediction\pattern_prediction_descriptor.cpp">
+      <Filter>model\pattern_prediction</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\samadi\samadi.cpp">
+      <Filter>model\samadi</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\sensitivity\sensitivity.cpp">
+      <Filter>model\sensitivity</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\steil_rebrin\Steil_Rebrin_Diffusion_Prediction.cpp">
+      <Filter>model\steil_rebrin</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\steil_rebrin\Steil_Rebrin_blood.cpp">
+      <Filter>model\steil_rebrin</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\uva_padova\uva_padova_s2013.cpp">
+      <Filter>model\uva_padova</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\uva_padova\uva_padova_s2017.cpp">
+      <Filter>model\uva_padova</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\wma\wma.cpp">
+      <Filter>model\wma</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\wma\wma_descriptor.cpp">
+      <Filter>model\wma</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\win\dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\bergman\bergman.h">
+      <Filter>model\bergman</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\bolus\insulin_bolus.h">
+      <Filter>model\bolus</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\common\ode_solver_parameters.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\common\ode_solvers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\common\uptake_accumulator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\constant\Constant_Model.h">
+      <Filter>model\constant</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\descriptor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\diffusion\Diffusion_Prediction.h">
+      <Filter>model\diffusion</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\diffusion\Diffusion_v2_blood.h">
+      <Filter>model\diffusion</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\diffusion\Diffusion_v2_ist.h">
+      <Filter>model\diffusion</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct\gct.h">
+      <Filter>model\gct</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct\gct_common.h">
+      <Filter>model\gct</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct\gct_depot.h">
+      <Filter>model\gct</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct\gct_moderation_functions.h">
+      <Filter>model\gct</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct\gct_transfer_functions.h">
+      <Filter>model\gct</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct2\gct2.h">
+      <Filter>model\gct2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct2\gct2_common.h">
+      <Filter>model\gct2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct2\gct2_depot.h">
+      <Filter>model\gct2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct2\gct2_moderation_functions.h">
+      <Filter>model\gct2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct2\gct2_transfer_functions.h">
+      <Filter>model\gct2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct2\samadi_gct2.h">
+      <Filter>model\gct2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct3\gct3.h">
+      <Filter>model\gct3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct3\gct3_common.h">
+      <Filter>model\gct3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct3\gct3_depot.h">
+      <Filter>model\gct3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct3\gct3_integrators.h">
+      <Filter>model\gct3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct3\gct3_moderation_functions.h">
+      <Filter>model\gct3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\gct3\gct3_transfer_functions.h">
+      <Filter>model\gct3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\neural_net\neural_net.h">
+      <Filter>model\neural_net</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\pattern_prediction\pattern_descriptor_model_parameters.h">
+      <Filter>model\pattern_prediction</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\pattern_prediction\pattern_prediction.h">
+      <Filter>model\pattern_prediction</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\pattern_prediction\pattern_prediction_data.h">
+      <Filter>model\pattern_prediction</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\pattern_prediction\pattern_prediction_descriptor.h">
+      <Filter>model\pattern_prediction</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\samadi\samadi.h">
+      <Filter>model\samadi</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\sensitivity\sensitivity.h">
+      <Filter>model\sensitivity</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\steil_rebrin\Steil_Rebrin_Diffusion_Prediction.h">
+      <Filter>model\steil_rebrin</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\steil_rebrin\Steil_Rebrin_blood.h">
+      <Filter>model\steil_rebrin</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\uva_padova\uva_padova_s2013.h">
+      <Filter>model\uva_padova</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\uva_padova\uva_padova_s2017.h">
+      <Filter>model\uva_padova</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\wma\wma.h">
+      <Filter>model\wma</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\wma\wma_descriptor.h">
+      <Filter>model\wma</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Probook\Desktop\scgms\scgms-release\core\model\src\win\model.def">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0C9DE735-E628-340A-AD34-6C0F3EE2948B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{33B8C4EA-8DE6-325E-BBA2-7E92E76D4D58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="model">
+      <UniqueIdentifier>{E17B4BC8-3F0E-3E34-98A3-D05415D20607}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="model\bergman">
+      <UniqueIdentifier>{1C3F88C7-5DFE-306A-BA4B-CFC9ECC1E0A3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="model\bolus">
+      <UniqueIdentifier>{4CEAB1F0-3DE7-3317-BD61-1962BCAFFED4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="model\constant">
+      <UniqueIdentifier>{DD6CA920-0123-3DAD-9C34-463366078F9E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="model\diffusion">
+      <UniqueIdentifier>{C60B11A8-53F7-3BDD-88EB-EE36C5B38EE6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="model\gct">
+      <UniqueIdentifier>{F15EA1B5-24EF-378E-B845-3EA07C6DB3E2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="model\gct2">
+      <UniqueIdentifier>{5E1C5B1A-3210-3532-BCAD-C32D5ADA7633}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="model\gct3">
+      <UniqueIdentifier>{5FEDA8A2-0F1F-3A55-8789-35606BA70A62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="model\neural_net">
+      <UniqueIdentifier>{C11D7700-B3AE-3C04-8884-43DA093889D1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="model\pattern_prediction">
+      <UniqueIdentifier>{4799070A-3D92-3C4D-A536-2FF57F379E41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="model\samadi">
+      <UniqueIdentifier>{78CBF45E-1113-3F97-BA62-B6AF2B054051}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="model\sensitivity">
+      <UniqueIdentifier>{F75F4417-2D33-3EB7-9D0C-4B82FA249F55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="model\steil_rebrin">
+      <UniqueIdentifier>{5CF4124B-30F2-310E-8768-32DAC80B5057}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="model\uva_padova">
+      <UniqueIdentifier>{A95DC7E4-FCF7-3C88-80CE-F49AD93804B3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="model\wma">
+      <UniqueIdentifier>{A4D3AD10-F81B-306C-9240-E372D6A91754}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

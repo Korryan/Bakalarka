@@ -1,0 +1,10 @@
+^C:\USERS\PROBOOK\DESKTOP\SCGMS\SCGMS-RELEASE\CORE\STOCHASTIC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Probook/Desktop/scgms/scgms-release -BC:/Users/Probook/Desktop/scgms/scgms-release/build --check-stamp-file C:/Users/Probook/Desktop/scgms/scgms-release/build/core/stochastic/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

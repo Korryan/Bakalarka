@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\iface\DeviceIface.cpp">
+      <Filter>iface</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\lang\dstrings.cpp">
+      <Filter>lang</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\ApproxLib.cpp">
+      <Filter>rtl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\Common_Calculated_Signal.cpp">
+      <Filter>rtl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\DbLib.cpp">
+      <Filter>rtl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\DeviceLib.cpp">
+      <Filter>rtl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\Dynamic_Library.cpp">
+      <Filter>rtl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\EmbeddedLib.cpp">
+      <Filter>rtl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\FilesystemLib.cpp">
+      <Filter>rtl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\FilterLib.cpp">
+      <Filter>rtl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\SolverLib.cpp">
+      <Filter>rtl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\UILib.cpp">
+      <Filter>rtl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\guid.cpp">
+      <Filter>rtl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\hresult.c">
+      <Filter>rtl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\qdb_connector.cpp">
+      <Filter>rtl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\rattime.cpp">
+      <Filter>rtl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\referencedImpl.cpp">
+      <Filter>rtl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\scgmsLib.cpp">
+      <Filter>rtl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\ConvertUTF.cpp">
+      <Filter>utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\DebugHelper.cpp">
+      <Filter>utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\QtUtils.cpp">
+      <Filter>utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\drawing\Drawing.cpp">
+      <Filter>utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\drawing\SVGRenderer.cpp">
+      <Filter>utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\math_utils.cpp">
+      <Filter>utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\net_utils.cpp">
+      <Filter>utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\string_utils.cpp">
+      <Filter>utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\system_utils.cpp">
+      <Filter>utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\winapi_mapping.c">
+      <Filter>utils</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\iface\ApproxIface.h">
+      <Filter>iface</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\iface\DbIface.h">
+      <Filter>iface</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\iface\DeviceIface.h">
+      <Filter>iface</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\iface\FilterIface.h">
+      <Filter>iface</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\iface\NativeIface.h">
+      <Filter>iface</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\iface\NetIface.h">
+      <Filter>iface</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\iface\OpenCLIface.h">
+      <Filter>iface</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\iface\SimpleIface.h">
+      <Filter>iface</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\iface\SolverIface.h">
+      <Filter>iface</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\iface\UIIface.h">
+      <Filter>iface</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\iface\referencedIface.h">
+      <Filter>iface</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\lang\dstrings.h">
+      <Filter>lang</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\AlignmentAllocator.h">
+      <Filter>rtl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\ApproxLib.h">
+      <Filter>rtl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\Common_Calculated_Signal.h">
+      <Filter>rtl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\DbLib.h">
+      <Filter>rtl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\DeviceLib.h">
+      <Filter>rtl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\Dynamic_Library.h">
+      <Filter>rtl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\Eigen_Buffer.h">
+      <Filter>rtl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\FilesystemLib.h">
+      <Filter>rtl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\FilterLib.h">
+      <Filter>rtl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\ModelsLib.h">
+      <Filter>rtl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\SolverLib.h">
+      <Filter>rtl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\UILib.h">
+      <Filter>rtl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\guid.h">
+      <Filter>rtl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\hresult.h">
+      <Filter>rtl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\manufactory.h">
+      <Filter>rtl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\qdb_connector.h">
+      <Filter>rtl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\rattime.h">
+      <Filter>rtl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\referencedImpl.h">
+      <Filter>rtl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\rtl\scgmsLib.h">
+      <Filter>rtl</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\ConvertUTF.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\DebugHelper.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\QtUtils.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\SimpleIni.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\XMLParser.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\descriptor_utils.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\drawing\Drawing.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\drawing\IRenderer.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\drawing\SVGRenderer.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\filesystem.hpp">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\math_utils.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\net_utils.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\optionparser.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\string_utils.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\system_utils.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\scgms\utils\winapi_mapping.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Probook\Desktop\scgms\scgms-release\common\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="iface">
+      <UniqueIdentifier>{AE527FE2-A9D9-386E-A06B-35259EA12C40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lang">
+      <UniqueIdentifier>{75853A41-D0E8-3C61-9E10-0D2E74F615B4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="rtl">
+      <UniqueIdentifier>{1AD3CD9F-646A-3902-AF30-45445364C44B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="utils">
+      <UniqueIdentifier>{CD0DBF3F-3969-3256-BE4C-1F7C1FDFD84F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
